@@ -4,7 +4,8 @@
 An end-to-end NLP sentiment analysis pipeline built on the Twitter US Airline Sentiment dataset.
 
 ## 🚀 Live Demo
-[Coming soon]
+[🌐 Live Demo — BrandPulse AI]
+(https://ethin69-brandpulse-ai.streamlit.app/)
 
 ## 📌 Features
 - Live tweet sentiment prediction with confidence score
