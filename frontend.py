@@ -23,7 +23,7 @@ st.markdown("""
 """, unsafe_allow_html=True)
 
 # ── API URL ───────────────────────────────────────────────────
-API_URL = "http://127.0.0.1:8000"
+API_URL = "https://brandpulse-ai-ys29.onrender.com"
 
 # ── Session state for history ─────────────────────────────────
 if 'history' not in st.session_state:
